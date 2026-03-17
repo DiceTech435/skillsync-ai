@@ -4,7 +4,7 @@ Get complete access to SkillSync-Ai, an AI-powered learning platform that connec
 
 ![App Screenshot](./assets/img/images/dices.png)
 
-![Demo Link](https://skillsync-ai.vercel.app)
+![Demo Link](https://ai-skillsync.vercel.app)
 
 ## ⚡ Features
 
