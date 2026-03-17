@@ -1,6 +1,10 @@
-# Meetsy - A community learning platform where learners find compatible study partners and achieve their goals together!
+# SkillSync-Ai - A community learning platform where learners find compatible study partners and achieve their goals together!
 
-Get complete access to Meetsy, an AI-powered learning platform that connects you with the perfect learning partners based on your goals, interests, and learning style in one intelligent matching system.
+Get complete access to SkillSync-Ai, an AI-powered learning platform that connects you with the perfect learning partners based on your goals, interests, and learning style in one intelligent matching system.
+
+![App Screenshot](./assets/img/images/dices.png)
+
+![Demo Link](https://skillsync-ai.vercel.app)
 
 ## ⚡ Features
 
@@ -63,7 +67,7 @@ Create a `.env.local` file in the root directory:
 
 ```env
 # Database
-DATABASE_URL=postgresql://user:password@localhost:5432/meetsy
+DATABASE_URL=postgresql://user:password@localhost:5432/SkillSync-Ai
 
 # Clerk Authentication
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_...
@@ -247,6 +251,18 @@ Located in: [lib/ai.ts](lib/ai.ts)
 - [ ] Payment integration for Pro tier subscriptions
 - [ ] Email notifications for new matches and messages
 
-## 📄 License
-
+## 📜 License
 [MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License.
+
+<b>Links</b><br>
+
+- Github - https://github.com/DiceTech435 <br>                              
+- WhatsApp - +234 906 431 8992       <br>                                   
+- Linkedin - Amevye Matthew - https://linkedin.com/in/amevye-matthew     <br>                           
+- Mail - amevyematthew@gmail.com, matexymiracle@gmail.com     <br>                      
+- Portfolio - https://amevyematthew.vercel.app    <br>                      
+- Link Tree - https://dice-linktree.vercel.app    <br> 
+ 
+<p>
+ ***feel free to send me a DM for any Error or help concerning PHP,AJAX,JQUERY,SQL***
