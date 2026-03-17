@@ -265,4 +265,4 @@ This project is licensed under the MIT License.
 - Link Tree - https://dice-linktree.vercel.app    <br> 
  
 <p>
- ***feel free to send me a DM for any Error or help concerning PHP,AJAX,JQUERY,SQL***
+ ***Feel free to send me a DM for any Error or help building AI-powered SaaS, scalable APIs, and modern web applications.***
