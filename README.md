@@ -4,7 +4,7 @@ Get complete access to SkillSync-Ai, an AI-powered learning platform that connec
 
 ![App Screenshot](./assets/img/images/dices.png)
 
-![Demo Link](https://ai-skillsync.vercel.app)
+![Go Live](https://ai-skillsync.vercel.app)
 
 ## ⚡ Features
 
@@ -257,7 +257,7 @@ This project is licensed under the MIT License.
 
 <b>Links</b><br>
 
-- Github - https://github.com/DiceTech435 <br>                              
+- Github - https://github.com/DiceTech435/skillsync-ai <br>                              
 - WhatsApp - +234 906 431 8992       <br>                                   
 - Linkedin - Amevye Matthew - https://linkedin.com/in/amevye-matthew     <br>                           
 - Mail - amevyematthew@gmail.com, matexymiracle@gmail.com     <br>                      
