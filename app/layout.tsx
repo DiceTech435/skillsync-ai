@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Outfit } from "next/font/google";
+import { Outfit, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import {
   ClerkProvider,
@@ -8,6 +8,9 @@ import {
   SignUpButton,
   UserButton,
 } from "@clerk/nextjs";
+import { cn } from "@/lib/utils";
+
+const jetbrainsMono = JetBrains_Mono({subsets:['latin'],variable:'--font-mono'});
 
 const OutfitFont = Outfit({
   subsets: ["latin"],
@@ -29,7 +32,7 @@ export default function RootLayout({
     <ClerkProvider>
       <html
         lang="en"
-        className={`${OutfitFont.className} ${OutfitFont.className} h-full antialiased`}
+        className={cn("h-full", "antialiased", OutfitFont.className, OutfitFont.className, "font-mono", jetbrainsMono.variable)}
       >
         <body className="min-h-full flex flex-col">
           <header className="flex justify-end items-center p-4 gap-4 h-16">
